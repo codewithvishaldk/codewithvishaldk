@@ -8,7 +8,9 @@
 
 ### 🛠 Skills:
 - Languages: Python, PHP, C++, JavaScript
-- Web Development: HTML, CSS, React Native, PHP
+- Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+, React Native, PHP
 - Tools: Git, VS Code, APIs
 
 ### 📬 Connect with Me:
