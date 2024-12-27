@@ -12,6 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 , React Native, PHP
 - Tools: Git, VS Code, APIs
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📬 Connect with Me:
 - Email: [vishal@example.com](mailto:vishal@example.com)
