@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Vishal 👋
+💻 **Web & App Developer | Tech Enthusiast | Problem Solver**
 
-<!--
-**codewithvishaldk/codewithvishaldk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Highlights:
+- **School Management Software** (Subscription-based SaaS)
+- **React Native App for NotesDrive** (Fetches data via APIs)
+- Internship at **Goldman Sachs** 🎉
 
-Here are some ideas to get you started:
+### 🛠 Skills:
+- Languages: Python, PHP, C++, JavaScript
+- Web Development: HTML, CSS, React Native, PHP
+- Tools: Git, VS Code, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me:
+- Email: [vishal@example.com](mailto:vishal@example.com)
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Portfolio: [vishalportfolio.com](https://vishalportfolio.com)
