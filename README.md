@@ -12,9 +12,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 , React Native, PHP
 - Tools: Git, VS Code, APIs
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithvishaldk&show_icons=true&theme=radical)
+![Vishal's GitHub stats](<img src="https://github-readme-stats.vercel.app/api?username=codewithvishaldk&theme=default&show_icons=true&hide_border=true&count_private=true" alt="codewithvishaldk's GitHub Stats" />)
 
 ### 📬 Connect with Me:
-- Email: [vishal@example.com](mailto:vishal@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Portfolio: [vishalportfolio.com](https://vishalportfolio.com)
+- Email: [mail](mailto:vishal.2302305051@sanskriti.ac.in)
+- LinkedIn: [linkedin.com/vishal_Chaudhary](https://www.linkedin.com/in/vishal-chaudhary2301/)
+- Portfolio: [personal portfolio ]([https://vishalportfolio.com](https://vishalchaudhary.glitch.me/))
